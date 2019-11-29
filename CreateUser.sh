@@ -1,3 +1,4 @@
+# Zachary Ducharme 11/8/19
 #!/bin/bash
 if [ $(id -u) -eq 0 ]; then
         read -p "Enter username : " username
